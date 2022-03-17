@@ -1,6 +1,7 @@
-[submodule "cvwo-ui"]
-	path = cvwo-ui
-	url = https://github.com/lesterong/cvwo-ui.git
-[submodule "cvwo-api"]
-	path = cvwo-api
-	url = https://github.com/lesterong/cvwo-api.git
+[submodule "taskority-ui"]
+	path = taskority-ui
+	url = https://github.com/lesterong/taskority-ui
+[submodule "taskority-api"]
+	path = taskority-api
+	url = https://github.com/lesterong/taskority-api
+	
