@@ -3,6 +3,13 @@
 Access the working application [here](https://taskority.lesterong.com).
 
 ---
+## Setting Up
+1. Clone this repository.
+2. Pull the content of all submodules using `git submodule update --init --recursive`
+
+## Updating submodules
+1. Run `git submodule update --remote` to update all the submodules to the latest commit.
+---
 Taskority, a task manager developed for the 2021/2022 CVWO Assignment.
 
 ## User Guide
